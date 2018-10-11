@@ -1,0 +1,8 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["Connor <connormccutcheon95@gmail.com>"]
+
+[dependencies]
+ring = "0.13.2"
+rpassword = "2.0.0"
